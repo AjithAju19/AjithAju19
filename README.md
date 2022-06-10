@@ -12,12 +12,16 @@
 - ⚡ Fun fact **I'm a StackOverFlow Parasite**
 
 
+<hr/>
+<br/><br/><br/><br/>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AjithAju19&show_icons=true&theme=radical" align = "left" width = "47%" />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AjithAju19&layout=compact" align = "left" width = "49%" />
 
 
+
+<hr/>
 
 <br/>
 
@@ -27,11 +31,13 @@
 
 
 
+<hr/>
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AjithAju19&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AjithAju19&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
