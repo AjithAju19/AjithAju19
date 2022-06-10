@@ -1,5 +1,6 @@
 ### Hi there, I'm Ajith! 👋
 
+<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fa4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&tbnid=1Dro-CqJY0h0AM&vet=12ahUKEwjP96uotKP4AhVCQWwGHT6vD2QQxiAoAnoECAAQJQ..i&docid=CJdgcKdcN0j58M&w=800&h=600&itg=1&q=coding%20cartoon%20gif&ved=2ahUKEwjP96uotKP4AhVCQWwGHT6vD2QQxiAoAnoECAAQJQ" align = "right" alt = "img"/>
 
 - 🔭 I’m currently working on **Intrusion Detection on WSNs**
 
