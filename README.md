@@ -13,11 +13,11 @@
 
 
 <hr/>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AjithAju19&show_icons=true&theme=radical" align = "left" width = "47%" />
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AjithAju19&layout=compact" align = "left" width = "49%" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AjithAju19&layout=compact" align = "left" width = "50%" />
 
 
 
@@ -51,6 +51,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithaju19&label=Profile%20views&color=0e75b6&style=flat" alt="ajithaju19" /> </p>
+
 <!--
 **AjithAju19/AjithAju19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
