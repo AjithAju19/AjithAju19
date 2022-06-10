@@ -13,9 +13,11 @@
 
 
 <hr/>
-<br/><br/><br/>
+<br/><br/>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AjithAju19&show_icons=true&theme=radical" align = "left" width = "47%" />
+
+<br/><br/>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AjithAju19&layout=compact" align = "left" width = "50%" />
 
