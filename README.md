@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Intrusion Detection on WSNs**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
